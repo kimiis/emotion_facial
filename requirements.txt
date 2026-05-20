@@ -3,6 +3,5 @@ torchvision
 transformers
 Pillow
 numpy
-grad-cam
+matplotlib
 streamlit
-opencv-contrib-python-headless
